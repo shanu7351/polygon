@@ -1,9 +1,9 @@
 const contractAddress = "0x8E26B2672da88D9e21bf576c5f2aCBD358a584Bd"; // Replace with your own contract address
 const chain = 'polygon'; // rinkeby, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "DOODCOLLECTIVE WELCOMES Y'ALL!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'The DoodCollective is collection of different unique colections living on different blockchain.ALIENS GURUS BY DOODCOLLECTIVE nft collection is on polygon, and THEY ARE COMING!!';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
