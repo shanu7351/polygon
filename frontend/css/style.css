@@ -395,15 +395,15 @@ section {
   display: none;
 }
 
-#announcement{
-  width: auto;
-  
-
-}
 
 #roadmap{
   text-align: center;
   text-transform: capitalize;
   font-weight: bold;
 
+}
+
+ol li{
+   margin-left: 75px;
+   font-weight: 100 bold;
 }
