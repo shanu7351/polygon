@@ -395,6 +395,10 @@ section {
   display: none;
 }
 
+#shanu {
+  background-color: var(--bg-color);
+  box-shadow: var(--header-shadow);
+}
 
 #roadmap{
   text-align: center;
@@ -405,5 +409,7 @@ section {
 
 ol li{
    margin-left: 75px;
-   font-weight: 100 bold;
+   font-style: italic;
+   font-variant: small-caps;
+   text-shadow: 2px 2px 0 var(--accent-color);
 }
